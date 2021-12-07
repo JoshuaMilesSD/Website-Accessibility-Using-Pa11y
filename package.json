@@ -1,0 +1,24 @@
+{
+  "name": "Website-Accessibility-Using-Pa11y",
+  "version": "1.0.0",
+  "description": "This basic HTML & CSS  static site will allow you to enter a website then run test on the sites html attributes to see they are entered correctly for accessibility purposes. This was my follow along atempt from Traversy Media's youtube tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaMilesSD/Website-Accessibility-Using-Pa11y.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaMilesSD/Website-Accessibility-Using-Pa11y/issues"
+  },
+  "homepage": "https://github.com/JoshuaMilesSD/Website-Accessibility-Using-Pa11y#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pa11y": "^6.1.1"
+  }
+}
